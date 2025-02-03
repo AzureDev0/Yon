@@ -64,5 +64,5 @@ if Loader.Screen.Enabled == false then
         game:GetService("Players").LocalPlayer:Kick("This game is not valid the support games are in the discord server.")
     end
 
-    loadstring(game:HttpGet(Run))()
+    loadstring(game:HttpGet(Run))() -- // finally done with 3 scripts in a simple day :sob:
 end
